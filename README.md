@@ -18,3 +18,5 @@ We need to test merge anyway
 
 New change
 >>>>>>> master
+
+Test
